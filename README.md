@@ -3,6 +3,8 @@
 
 ![DiceRunner714's GitHub stats](https://github-readme-stats.vercel.app/api?username=dicerunner714&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicerunner714&size_weight=0.5&count_weight=0.5)
+
 ## Daily Tools
 
 <div style="display: inline_block">
