@@ -1,5 +1,6 @@
 
-### Hello There!!! I'm Eduardo Sandes 🖖🏼
+### Hello There!!! My name is Eduardo Sandes 🖖🏼
+and I'm currently a Software Engineering student at Universidade de Brasília
 
 ![DiceRunner714's GitHub stats](https://github-readme-stats.vercel.app/api?username=dicerunner714&show_icons=true&theme=tokyonight)
 
