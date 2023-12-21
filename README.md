@@ -1,4 +1,4 @@
-# Hello There!!! My name is Eduardo Sandes 🖖🏼
+# Hello There!!! My name is Eduardo Sandes 🎲
 - I'm a Software Engineering student at Universidade de Brasília (UnB)
 - Improving Bit by Bit
 
