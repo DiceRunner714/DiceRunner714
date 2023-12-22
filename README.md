@@ -1,5 +1,5 @@
 # Hello There!!! My name is Eduardo Sandes 🎲
-- I'm a Software Engineering student at Universidade de Brasília (UnB)
+- I'm a Software Engineering student at University of Brasilia (UnB)
 - Improving Bit by Bit
 
 ## Daily Tools
