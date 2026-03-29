@@ -14,7 +14,6 @@
 </div><br/>
 
 ## GitHub Stats
-![DiceRunner714's GitHub stats](https://github-readme-stats.vercel.app/api?username=dicerunner714&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dicerunner714&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicerunner714)](https://github.com/dicerunner714/github-readme-stats)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dicerunner714&layout=compact&theme=tokyonight)
