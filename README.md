@@ -14,10 +14,10 @@
 - My name is Eduardo Sandes
 - 22 y/o Software Engineering student, 10th semester at **University of Brasília (UnB/FCTE)**
 - Currently working on **Service Design & UX research** for a project with Brazil's Civil Aviation Agency (ANAC)
-- Interested in **Dackend, Data Science and Artificial Intelligence**
+- Interested in **Backend, Data Science and Artificial Intelligence**
 - Studying Non-Functional Requirement modeling and Data Privacy
 - Comfortable with agile methodologies and collaborative, multidisciplinary teams
-- Also enjoy building games on the side and competitive programming (though I'm not the good)
+- Also enjoy building games on the side and competitive programming (though I'm not that good)
 - Reach me at **eduardo.sandes6@gmail.com** or **eduardo.sandes714@gmail.com**
 
 <br/>
