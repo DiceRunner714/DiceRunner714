@@ -39,6 +39,6 @@
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dicerunner714&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicerunner714&layout=compact&theme=tokyonight)
+[![1](https://raw.githubusercontent.com/DiceRunner714/DiceRunner714/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![2](https://raw.githubusercontent.com/DiceRunner714/DiceRunner714/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![4](https://raw.githubusercontent.com/DiceRunner714/DiceRunner714/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![3](https://raw.githubusercontent.com/DiceRunner714/DiceRunner714/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![5](https://raw.githubusercontent.com/DiceRunner714/DiceRunner714/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
