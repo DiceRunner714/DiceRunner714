@@ -24,6 +24,8 @@
 <div> 
   <a href = "mailto:eduardo.sandes6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%232563EB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dice_runner7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238A2BE2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K1224376E6" target="_blank"> <img src="https://img.shields.io/badge/-Lattes-%231F6FEB?style=for-the-badge&logo=academia&logoColor=white" target="_blank">
+  </a>
 </div>
 
 
